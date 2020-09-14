@@ -1,0 +1,9 @@
+* SD FAT16/FAT32 file system
+- 基于Arduino的库实现，学习一下文件系统的使用。
+- 这是我自己的学习记录，不是教程或者解决方案。可以参考我的学习或者移植过程，但是不要当作教程来用以免被带偏。
+
+** 相关资料
+- SD卡的技术资料： https://www.sdcard.org
+- Arduino最终提供的文件系统链接： [[https://github.com/greiman/SdFat][SdFat]]
+
+** 学习记录
