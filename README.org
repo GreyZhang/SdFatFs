@@ -7,3 +7,4 @@
 - Arduino最终提供的文件系统链接： [[https://github.com/greiman/SdFat][SdFat]]
 
 ** 学习记录
+- [[https://greyzhang.blog.csdn.net/article/details/108589203][383_实现SD卡文件系统所需要的指令梳理]]
