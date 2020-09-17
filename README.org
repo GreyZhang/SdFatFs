@@ -8,3 +8,4 @@
 
 ** 学习记录
 - [[https://greyzhang.blog.csdn.net/article/details/108589203][383_实现SD卡文件系统所需要的指令梳理]]
+- [[https://greyzhang.blog.csdn.net/article/details/108652264][393_Arduino SD卡驱动库实现分析-全局接口]]
