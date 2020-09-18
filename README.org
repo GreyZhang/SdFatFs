@@ -15,5 +15,5 @@
 
 - [[https://greyzhang.blog.csdn.net/article/details/108655689][396_Arduino SD卡驱动命令发送C实现尝试]]
 
-- SD卡命令发送测试
+- [[https://greyzhang.blog.csdn.net/article/details/108672736][397_Arduino SD卡驱动命令测试]]
 code: 01_CardCommandTest
