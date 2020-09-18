@@ -17,3 +17,6 @@
 
 - [[https://greyzhang.blog.csdn.net/article/details/108672736][397_Arduino SD卡驱动命令测试]]
 code: 01_CardCommandTest
+
+- [[https://greyzhang.blog.csdn.net/article/details/108673159][398_Arduino上实现SD卡类型判断]]
+code: 02_CardType
