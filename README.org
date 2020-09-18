@@ -20,3 +20,6 @@ code: 01_CardCommandTest
 
 - [[https://greyzhang.blog.csdn.net/article/details/108673159][398_Arduino上实现SD卡类型判断]]
 code: 02_CardType
+
+- [[https://greyzhang.blog.csdn.net/article/details/108673218][399_FAT文件系统DPT分区表小结]]
+
