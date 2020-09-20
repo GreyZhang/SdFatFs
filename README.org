@@ -25,3 +25,6 @@ code: 02_CardType
 
 - [[https://greyzhang.blog.csdn.net/article/details/108696937][401_Petit FAT文件系统在Arduino上的移植测试]]
 code: 03_PETIT
+
+- [[https://greyzhang.blog.csdn.net/article/details/108697431][402_PETIT FAT文件系统目录读取测试]]
+code: 简单，不放了
