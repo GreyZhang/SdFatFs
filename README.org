@@ -30,3 +30,5 @@ code: 03_PETIT
 code: 简单，不放了
 
 - [[https://greyzhang.blog.csdn.net/article/details/108719136][403_SdFat的文件读取测试]]
+
+- [[https://greyzhang.blog.csdn.net/article/details/108720068][404_SdFat文件的创建和删除]]
