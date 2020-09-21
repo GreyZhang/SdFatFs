@@ -28,3 +28,5 @@ code: 03_PETIT
 
 - [[https://greyzhang.blog.csdn.net/article/details/108697431][402_PETIT FAT文件系统目录读取测试]]
 code: 简单，不放了
+
+- [[https://greyzhang.blog.csdn.net/article/details/108719136][403_SdFat的文件读取测试]]
